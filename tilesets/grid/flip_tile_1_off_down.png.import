@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/flip_tile_1_off_down.png-2965b317a003ed419109810757d5f75c.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://tilesets/grid/flip_tile_1_off_down.png"
+dest_files=[ "res://.import/flip_tile_1_off_down.png-2965b317a003ed419109810757d5f75c.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

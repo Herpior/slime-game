@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/next_level_beep.wav-dd1a5755a015b8e9bcb7623612f06656.sample"
+
+[deps]
+
+source_file="res://music/next_level_beep.wav"
+dest_files=[ "res://.import/next_level_beep.wav-dd1a5755a015b8e9bcb7623612f06656.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
